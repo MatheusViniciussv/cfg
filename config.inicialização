@@ -1,0 +1,1 @@
+-high -novid +fps_max 65 +cl_interp 0 +mat_queue_mode 2 -nojoy -noubershader

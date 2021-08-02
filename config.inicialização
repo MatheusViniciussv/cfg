@@ -1,1 +1,1 @@
--high -novid +fps_max 0 -nojoy
+-high -novid +fps_max 0 +cl_interp 0 +mat_queue_mode 2 -nojoy
